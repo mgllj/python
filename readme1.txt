@@ -7,6 +7,7 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.cat
 
+My stupid boss still prefers SVN.
 second modify
 
-third modify
+third modifygit
