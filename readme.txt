@@ -10,5 +10,5 @@ Git tracks changes of files.cat
 My stupid boss still prefers SVN.
 second modify vedassdfdsfddsdsds
 d---------a--------b---software---boss--b---softwaress
-d---------a--------b---software---boss--b---ddgaeet 
+d---------a--------b---software---boss--b---ddgaeetde  
 third modifygit
