@@ -9,5 +9,5 @@ Git tracks changes of files.cat
 1233 is   a floosh number124124561
 My stupid boss still prefers SVN.
 second modify vedassdfdsfddsdsds
-d---------a--------b---software
+d---------a--------b---software---boss
 third modifygit
